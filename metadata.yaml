@@ -1,0 +1,30 @@
+_repo: Masters-of-the-English-Novel--A-Study-of-Principles-and-Personalities_12736
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burton, Richard
+    alias: Burton, Richard Eugene
+    birthdate: 1861
+    deathdate: 1940
+    gutenberg_agent_id: '5414'
+    url: http://www.gutenberg.org/2009/agents/5414
+description: ''
+gutenberg_issued: '2004-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12736'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- History and criticism'
+- GITenberg
+tableOfContents: 'Fiction and the novel -- Eighteenth century beginnings: Richardson
+  -- Eighteenth century beginnings: Fielding -- Developments: Smollett, Sterne and
+  others -- Realism: Jane Austen -- Modern romanticism: Scott -- French influence
+  -- Dickens -- Thackeray -- George Eliot -- Trollope and others -- Hardy and Meredith
+  -- Stevenson -- The American contribution.'
+title: 'Masters of the English Novel: A Study of Principles and Personalities'
+url: http://www.gutenberg.org/ebooks/12736
